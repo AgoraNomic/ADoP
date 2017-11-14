@@ -1,0 +1,77 @@
+=====Metareport=====
+This report is effective as of the time of its publishing.
+
+Date of last report: 2017-10-25
+Date of this report: 2017-10-30
+
+Total offices: 18
+Filled offices: 94.44%
+Late reports: 0%
+
+OFFICES
+
+Office             Holder           Since        Last Election     Interim?[3]
+-----------------------------------------------------------------------------------------------------
+ADoP[1]            ATMunn           2017-10-20   2017-10-20
+Agronomist         VACANT           2017-10-24   Ongoing           Y
+Arbitor            G.               2017-09-15   2017-09-21
+Assessor           PSS[2]           2017-10-12   2017-10-12
+Fearmongor         G.               2017-09-27   Never             Y
+Herald             G.               2017-09-13   2017-09-13
+Notary             o                2017-10-22   2017-10-30        
+Prime Minister     Alexis           2017-10-20   2017-10-20
+Promotor           Aris             2016-10-21   2017-09-21
+Referee            V.J. Rada[4]     2017-10-24   Ongoing           Y
+Registrar          PSS[2]           2017-04-18   2017-09-21
+Regkeepor          Aris             2017-07-06   2017-09-13
+Reportor           天火狐            2017-09-13   2017-09-13
+Rulekeepor         PSS              2017-10-22   Ongoing           Y
+Speaker            Quazie           2017-10-09   2014-04-21
+Surveyor           o                2017-05-08   Ongoing           Y
+Tailor             Alexis           2017-10-01   2017-10-12        
+Treasuror          o                2016-10-22   2017-09-21
+-----------------------------------------------------------------------------------------------------
+[1] Associate Director of Personnel
+[2] Publius Scribonius Scholasticus
+[3] Interim offices are offices that are either vacant, or the holder
+of the office was not elected to that office.
+[4] This position is disputed, and does not self-ratify.
+
+REPORTS
+
+Office             Monthly?     Report                    Last Published        Late[1]
+-----------------------------------------------------------------------------------------------------
+ADoP[2]                         Offices                   2017-10-30
+Agronomist                      Farms                     2017-10-25[4]
+Arbitor                         Judicial matters          2017-10-29
+Herald             Y            Patent titles             2017-10-27
+Herald                          Matters of Honour         2017-10-29
+Notary                          Contracts                 2017-10-25
+Promotor                        Proposal pool             2017-10-30
+Referee                         Rule violations           2017-10-24
+Registrar                       Players, Fora             2017-10-29
+Registrar          Y            Player history            2017-10-01
+Regkeepor                       Regulations               2017-10-29
+Reportor                        The Agoran Newspaper      2017-10-16
+Rulekeepor                      Short Logical Ruleset     2017-10-29
+Rulekeepor         Y            Full Logical Ruleset      2017-10-22
+Surveyor                        Estates                   2017-10-25            
+Tailor             Y            Ribbons                   2017-10-01
+Treasuror                       Shinies & FV[3]           2017-10-25            
+-----------------------------------------------------------------------------------------------------
+[1] ! = 1 period missed. !! = 2 periods missed. !!! = 3+ periods missed.
+[2] Associate Director of Personnel
+[3] Floating Value
+[4] This report is not an official report, as the player publishing it 
+did not hold the office at the time of its publishing.
+
+ELECTIONS
+
+Office             Initiated       Phase              Candidates
+-----------------------------------------------------------------------------------------------------
+Rulekeepor         2017-10-23      Voting             Alexis, Trigon, PSS[1]
+Surveyor           2017-10-24      Voting             o
+Agronomist         2017-10-24      Voting             V.J. Rada, o
+Referee            2017-10-26      Nomination         V.J. Rada, o
+-----------------------------------------------------------------------------------------------------
+[1] Publius Scribonius Scholasticus

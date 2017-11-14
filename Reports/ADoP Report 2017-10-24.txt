@@ -1,0 +1,72 @@
+=====Metareport=====
+This report is effective as of the time of its publishing.
+
+Date of last report: 2017-10-08 [by the previous ADoP, V.J. Rada]
+Date of this report: 2017-10-24
+
+Filled offices: 100%
+Late reports: 25+%
+
+Please do not call elections for every office, thank you.
+
+OFFICES
+
+Office             Holder           Since        Last Election     Elect?[3]  
+---------------------------------------------------------------------------------------------------
+Arbitor            G.               2017-09-15   2017-09-14        Y
+Assessor           G.               2017-09-04   2017-09-28
+ADoP[1]            ATMunn           2017-10-20   2017-10-08            
+Herald             G.               2017-09-06   2017-09-06        Y
+Prime Minister     Alexis           2017-10-20   2017-10-08            
+Promotor           Aris             2016-10-21   2017-09-14        Y
+Referee            V.J. Rada        2017-10-24   Interim[4]        Y
+Registrar          PSS[2]           2017-04-18   2017-09-14        Y
+Regkeepor          Aris             2017-07-06   2017-09-06        Y
+Reportor           天火狐            2017-08-10   2017-09-06        Y
+Rulekeepor         PSS              2017-10-22   Interim           Y
+Treasuror          o                2016-10-22   Interim           Y
+Speaker            Quazie           2017-09-09   2014-04-21        Never
+Superintendent     V.J. Rada        2017-09-28   2017-09-22
+Surveyor           o                2017-05-08   2017-09-14        Y
+Tailor             Alexis           2017-10-01   2017-09-28        Y
+Agronomist         o                2017-09-21   2017-09-14        Y
+Fearmongor         G.               2017-09-27   Interim[5]        Y
+Notary             o                2017-10-22   Interim           Y
+ --------------------------------------------------------------------------------------------------
+[1] Associate Director of Personnel
+[2] Publius Scribonius Scholasticus
+[3] Anyone may inititate elections for these positions without being
+the ADoP or 4 support.
+[4] Interim offices are offices that are either vacant, or the holder
+of the office was not elected to that office.
+[5] I don't know when or how e got the office, I assume it is interim.
+
+REPORTS
+
+Office          Monthly?     Report                    Last Published     Late[1]
+-----------------------------------------------------------------------------------------------------
+ADoP[2]                      Offices                   2017-10-08
+Arbitor                      Judicial matters          2017-10-21
+Herald          Y            Patent titles             2017-09-04         !
+Herald                       Matters of Honour         2017-10-21
+Promotor                     Proposal pool             2017-10-15         ![4]         
+Referee                      Rule violations           2017-10-24
+Registrar                    Players, Fora             2017-10-22
+Registrar       Y            Player history            2017-10-01
+Regkeepor                    Regulations               2017-10-20         
+Reportor                     The Agoran Newspaper      2017-10-16
+Rulekeepor                   Short Logical Ruleset     2017-10-23
+Rulekeepor      Y            Full Logical Ruleset      2017-10-22         
+Treasuror                    OLEBaS[3]                 2017-10-13         !
+Treasuror       Y            Charters                  2017-10-04
+Superintendent               Agencies (incremental)    2017-10-18
+Superintendent  Y            Agencies (Full)           2017-09-27
+Surveyor                     Estates                   2017-10-11         !
+Tailor          Y            Ribbons                   2017-10-01
+Agronomist                   Farms                     2017-10-10         !!
+Notary                       Contracts                 Never
+-----------------------------------------------------------------------------------------------------
+[1] ! = 1 period missed. !! = 2 periods missed. !!! = 3+ periods missed.
+[2] Associate Director of Personnel
+[3] Organizations, Lockout, Expenditure, Balances, and Shinies
+[4] This might not actually be a problem?
