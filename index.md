@@ -3,13 +3,9 @@
 
 ----
 
-## Current
+[Latest Report](Reports/ADoP-Report-2017-11-14-revision-1.txt)
 
-[The next (unofficial) report]() 
-
-[The latest](Reports/ADoP-Report-2017-11-14-revision-1.txt)
-
-## Past
+## Previous Reports
 
 [2017-11-14](Reports/ADoP-Report-2017-11-14.txt) 
 
