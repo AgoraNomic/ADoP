@@ -25,6 +25,7 @@ REPORT WARNINGS[1]
 
 Office             Holder           Days Since[2]      Deadline
 -----------------------------------------------------------------------------------------------------
+Reportor           天火狐              8 Days             2017-11-19
 Referee            V.J. Rada        7 Days             2017-11-26
 -----------------------------------------------------------------------------------------------------
 [1] This is a warning to any officeholders that have had at least 7 days
@@ -78,7 +79,7 @@ Referee                         Rule violations           2017-11-13
 Registrar                       Players, Fora             2017-11-19
 Registrar          Y            Player history            2017-10-31
 Regkeepor                       Regulations               2017-11-19
-Reportor                        The Agoran Newspaper      2017-11-12
+Reportor                        The Agoran Newspaper      2017-11-12            !
 Rulekeepor                      Short Logical Ruleset     2017-11-19
 Rulekeepor         Y            Full Logical Ruleset      2017-11-16
 Surveyor                        Estates                   2017-11-16
