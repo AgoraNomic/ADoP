@@ -1,0 +1,138 @@
+=====Metareport=====
+This report is effective as of the time of its publishing.
+
+Date of last report: 2017-11-14
+Date of this report: 2017-11-20
+
+
+MISCELLANIOUS INFO
+
+-----------------------------------------------------------------------------------------------------
+Filled offices: 16/17 (94.11%)
+Total officers: 9
+Consolidation[1]: 1.78
+Late reports: 0%
+-----------------------------------------------------------------------------------------------------
+[1] This is the number of filled offices divided by the number of
+officers. At 1, this means that all offices are filled by different
+players, and if it ever reaches the current number of offices, all
+offices are filled by one player.
+
+
+REPORT WARNINGS[1]
+
+Office             Holder           Days Since[2]      Deadline
+-----------------------------------------------------------------------------------------------------
+Referee            V.J. Rada        7 Days             2017-11-26
+-----------------------------------------------------------------------------------------------------
+[1] This is a warning to any officeholders that have had at least 7 days
+since eir last weekly report, or at least 30 days since eir last monthly
+report, along with the deadline of the absolute latest day eir report
+could be published on before e could receive a card.
+[2] Days since last report
+
+
+OFFICES
+
+Office             Holder           Since         Last Election     Interim?[3]
+-----------------------------------------------------------------------------------------------------
+ADoP[1]            ATMunn           2017-10-20    2017-10-20
+Agronomist         o                2017-11-06    2017-11-06
+Arbitor            G.               2017-09-15    2017-09-21
+Assessor           PSS[2]           2017-10-12    2017-10-12
+Herald             VACANT           2017-11-17[4] Ongoing           Y
+Notary             o                2017-10-22    2017-10-30
+Prime Minister     Alexis           2017-10-20    2017-10-20
+Promotor           Aris             2016-10-21    2017-09-21
+Referee            V.J. Rada        2017-10-24    2017-11-07
+Registrar          PSS[2]           2017-04-18    2017-09-21
+Regkeepor          Aris             2017-07-06    2017-09-13
+Reportor           天火狐              2017-09-13    2017-09-13
+Rulekeepor         Alexis           2017-11-06    2017-11-06
+Speaker            Quazie           2017-10-09    2014-04-21
+Surveyor           o                2017-05-08    2017-11-06
+Tailor             Alexis           2017-10-01    2017-10-12        
+Treasuror          o                2016-10-22    2017-09-21
+-----------------------------------------------------------------------------------------------------
+[1] Associate Director of Personnel
+[2] Publius Scribonius Scholasticus
+[3] Interim offices are offices that are either vacant, or the holder of 
+the office was not elected to that office.
+[4] The office has been vacant since this date.
+
+
+REPORTS
+
+Office             Monthly?     Report                    Last Published        Late[1]
+-----------------------------------------------------------------------------------------------------
+ADoP[2]                         Offices                   2017-11-20
+Agronomist                      Farms                     2017-11-17
+Arbitor                         Judicial matters          2017-11-19
+Herald             Y            Patent titles             2017-10-27
+Herald                          Matters of Honour         2017-11-12
+Notary                          Contracts                 2017-11-16
+Promotor                        Proposal pool             2017-11-19
+Referee                         Rule violations           2017-11-13
+Registrar                       Players, Fora             2017-11-19
+Registrar          Y            Player history            2017-10-31
+Regkeepor                       Regulations               2017-11-19
+Reportor                        The Agoran Newspaper      2017-11-12
+Rulekeepor                      Short Logical Ruleset     2017-11-19
+Rulekeepor         Y            Full Logical Ruleset      2017-11-16
+Surveyor                        Estates                   2017-11-16
+Tailor             Y            Ribbons                   2017-11-02
+Treasuror                       Shinies & FV[3]           2017-11-16
+-----------------------------------------------------------------------------------------------------
+[1] ! = 1 period missed. !! = 2 periods missed. !!! = 3+ periods missed.
+[2] Associate Director of Personnel
+[3] Floating Value
+
+
+ELECTIONS
+
+Office             Initiated       Phase              Candidates
+-----------------------------------------------------------------------------------------------------
+Herald             2017-11-17      Nomination         P.S.S.[1]
+----------------------------------------------------------------------------------------------------- 
+
+
+UPCOMING ELECTIONS[1]
+
+Office             Days Until          Last Election
+-----------------------------------------------------------------------------------------------------
+Regkeepor          22 Days             2017-09-13
+Arbitor            30 Days             2017-09-21
+Promotor           30 Days             2017-09-21
+Registrar          30 Days             2017-09-21
+Treasuror          30 Days             2017-09-21
+-----------------------------------------------------------------------------------------------------
+[1] Unless an office becomes interim, office elections can be started by
+anyone 90 days after the previous one. This section shows the 5 offices
+(not counting the Speaker) with the most time passed since the last 
+election.
+
+
+RECENT EVENTS (all times UTC)
+-----------------------------------------------------------------------------------------------------
+Tue, Nov 14 2017 (02:44:03) - ATMunn published the ADoP's weekly report
+Tue, Nov 14 2017 (12:10:02) - Telnaior made a CoE on the ADoP's weekly report
+Wed, Nov 15 2017 (17:46:16) - G. published the Herald's weekly report
+Thu, Nov 16 2017 (05:03:24) - o made a CoE on the ADoP's weekly report
+Thu, Nov 16 2017 (05:27:48) - o published the Notary's weekly report
+Thu, Nov 16 2017 (05:29:25) - o publisehd the Surveyor's weekly report
+Thu, Nov 16 2017 (05:35:21) - o published the Treasuror's weekly report
+Fri, Nov 17 2017 (01:35:32) - ATMunn made and accepted a CoE and published a revision of the ADoP's weekly report
+Fri, Nov 17 2017 (01:38:47) - o published the Agronomist's weekly report
+Fri, Nov 17 2017 (01:53:40) - G. resigned Herald
+Fri, Nov 17 2017 (02:06:04) - ATMunn initiated an election for Herald
+Fri, Nov 17 2017 (02:06:50) - PSS became a candidate for the Herald election
+Fri, Nov 17 2017 (02:34:09) - ATMunn denied o's CoE on the ADoP's weekly report
+Fri, Nov 17 2017 (02:36:59) - Alexis published the Full Logical Ruleset
+Fri, Nov 17 2017 (14:28:26) - ATMunn denied Telnaior's CoE on the ADoP's weekly report
+Sun, Nov 19 2017 (00:23:50) - Alexis published the Short Logical Ruleset
+Sun, Nov 19 2017 (09:27:44) - Aris published the proposal pool
+Sun, Nov 19 2017 (11:26:43) - PSS published the Registrar's weekly report
+Sun, Nov 19 2017 (15:37:55) - ATMunn made a CoE on the Registrar's weekly report
+Sun, Nov 19 2017 (15:44:09) - PSS accepted ATMunn's CoE on the Registrar's weekly report
+Sun, Nov 19 2017 (20:18:55) - G. published the Arbitor's weekly report
+Sun, Nov 19 2017 (23:39:29) - Aris published the Agora Nomic Code of Regulations
