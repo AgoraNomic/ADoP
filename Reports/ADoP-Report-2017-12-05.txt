@@ -11,7 +11,7 @@ MISCELLANEOUS INFO
 Filled offices: 18/18 (100.00%) [yay]
 Total officers: 10
 Consolidation[1]: 1.8
-Late reports: 5.56%
+Late reports: 11.11%
 -----------------------------------------------------------------------------------------------------
 [1] This is the number of filled offices divided by the number of
 officers. At 1, this means that all offices are filled by different
@@ -24,6 +24,7 @@ REPORT WARNINGS[1]
 Office             Holder           Days Since[2]      Deadline
 -----------------------------------------------------------------------------------------------------
 Herald             VJ Rada          38 Days            2017-11-30
+Reportor           天火狐              13 Days            2017-12-03
 -----------------------------------------------------------------------------------------------------
 [1] This is a warning to any officeholders that have had at least 7 days
 since eir last weekly report, or at least 30 days since eir last monthly
@@ -77,7 +78,7 @@ Referee                         Rule violations           2017-11-21
 Registrar                       Players, Fora             2017-12-03
 Registrar          Y            Player history            2017-11-30
 Regkeepor                       ACORN[3]                  2017-12-03
-Reportor                        The Agoran Newspaper      2017-11-21            
+Reportor                        The Agoran Newspaper      2017-11-21            !
 Rulekeepor                      Short Logical Ruleset     2017-12-03
 Rulekeepor         Y            Full Logical Ruleset      2017-12-03
 Surveyor                        Estates                   2017-11-28
