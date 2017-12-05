@@ -1,0 +1,217 @@
+=====Metareport=====
+You can find all my most recent reports online at https://agoranomic.org/ADoP/
+
+Date of last report: 2017-11-27
+Date of this report: 2017-12-05
+
+
+MISCELLANEOUS INFO
+
+-----------------------------------------------------------------------------------------------------
+Filled offices: 18/18 (100.00%) [yay]
+Total officers: 10
+Consolidation[1]: 1.8
+Late reports: 5.56%
+-----------------------------------------------------------------------------------------------------
+[1] This is the number of filled offices divided by the number of
+officers. At 1, this means that all offices are filled by different
+players, and if it ever reaches the current number of offices, all
+offices are filled by one player.
+
+
+REPORT WARNINGS[1]
+
+Office             Holder           Days Since[2]      Deadline
+-----------------------------------------------------------------------------------------------------
+Herald             VJ Rada          38 Days            2017-11-30
+-----------------------------------------------------------------------------------------------------
+[1] This is a warning to any officeholders that have had at least 7 days
+since eir last weekly report, or at least 30 days since eir last monthly
+report, along with the deadline of the absolute latest day eir report
+could be published on before e could receive a card.
+[2] Days since last report
+
+
+OFFICES
+
+Office             Holder           Since         Last Election     Complexity        Interim?[3]
+-----------------------------------------------------------------------------------------------------
+ADoP[1]            ATMunn           2017-10-20    2017-10-20        2
+Agronomist         o                2017-11-06    2017-11-06        1
+Arbitor            G.               2017-09-15    2017-09-21        2
+Assessor           PSS[2]           2017-10-12    2017-10-12        3
+Clork              Telnaior         2017-11-22    Ongoing           2                 Y
+Herald             Corona           2017-11-30    2017-11-30        1                 Y
+Notary             o                2017-10-22    2017-10-30        2
+Prime Minister     Alexis           2017-10-20    2017-10-20        1
+Promotor           Aris             2016-10-21    2017-09-21        2
+Referee            Alexis           2017-11-22    Ongoing           2                 Y
+Registrar          PSS[2]           2017-04-18    2017-09-21        2
+Regkeepor          Aris             2017-07-06    2017-09-13        1
+Reportor           天火狐              2017-09-13    2017-09-13         1
+Rulekeepor         Alexis           2017-11-06    2017-11-06        3
+Speaker            Quazie           2017-10-09    2014-04-21        1
+Surveyor           o                2017-05-08    2017-11-06        1
+Tailor             Alexis           2017-10-01    Ongoing           1    
+Treasuror          o                2016-10-22    2017-09-21        3
+-----------------------------------------------------------------------------------------------------
+[1] Associate Director of Personnel
+[2] Publius Scribonius Scholasticus
+[3] Interim offices are offices that are either vacant, or the holder of 
+the office was not elected to that office.
+
+
+REPORTS
+
+Office             Monthly?     Report                    Last Published        Late[1]
+-----------------------------------------------------------------------------------------------------
+ADoP[2]                         Offices                   2017-12-05
+Agronomist                      Farms                     2017-11-28
+Arbitor                         Judicial matters          2017-11-26
+Clork                           Politics                  2017-12-04
+Herald             Y            Patent titles             2017-10-27            !
+Herald                          Matters of Honour         2017-11-28
+Notary                          Contracts                 2017-11-28
+Promotor                        Proposal pool             2017-12-03
+Referee                         Rule violations           2017-11-21
+Registrar                       Players, Fora             2017-12-03
+Registrar          Y            Player history            2017-11-30
+Regkeepor                       ACORN[3]                  2017-12-03
+Reportor                        The Agoran Newspaper      2017-11-21            
+Rulekeepor                      Short Logical Ruleset     2017-12-03
+Rulekeepor         Y            Full Logical Ruleset      2017-12-03
+Surveyor                        Estates                   2017-11-28
+Tailor             Y            Ribbons                   2017-12-03
+Treasuror                       Shinies & FV[4]           2017-11-28
+-----------------------------------------------------------------------------------------------------
+[1] ! = 1 period missed. !! = 2 periods missed. !!! = 3+ periods missed.
+[2] Associate Director of Personnel
+[3] Agora Nomic Code of Regulations
+[4] Floating Value
+
+
+ELECTIONS
+
+Office             Initiated       Phase              Candidates
+-----------------------------------------------------------------------------------------------------
+Referee            2017-11-22      Voting             PSS[1], o
+Clork              2017-11-27      Nomination         Telnaior
+Tailor             2017-11-28      Nomination         Alexis
+----------------------------------------------------------------------------------------------------- 
+[1] Publius Scribonius Scholasticus
+
+
+UPCOMING ELECTIONS[1]
+
+Office             Days Until          Last Election
+-----------------------------------------------------------------------------------------------------
+Regkeepor          8 Days             2017-09-13
+Arbitor            16 Days             2017-09-21
+Promotor           16 Days             2017-09-21
+Registrar          16 Days             2017-09-21
+Treasuror          16 Days             2017-09-21
+-----------------------------------------------------------------------------------------------------
+[1] Unless an office becomes interim, office elections can be started by
+anyone 90 days after the previous one. This section shows the 5 offices
+(not counting the Speaker) with the most time passed since the last 
+election.
+
+
+RECENT EVENTS (all times UTC)
+-----------------------------------------------------------------------------------------------------
+Tue, Nov 14 2017 (02:44:03) - ATMunn published the ADoP's weekly report
+Tue, Nov 14 2017 (12:10:02) - Telnaior made a CoE on the ADoP's weekly report
+Wed, Nov 15 2017 (17:46:16) - G. published the Herald's weekly report
+Thu, Nov 16 2017 (05:03:24) - o made a CoE on the ADoP's weekly report
+Thu, Nov 16 2017 (05:27:48) - o published the Notary's weekly report
+Thu, Nov 16 2017 (05:29:25) - o publisehd the Surveyor's weekly report
+Thu, Nov 16 2017 (05:35:21) - o published the Treasuror's weekly report
+Fri, Nov 17 2017 (01:35:32) - ATMunn made and accepted a CoE and published a revision of the ADoP's weekly report
+Fri, Nov 17 2017 (01:38:47) - o published the Agronomist's weekly report
+Fri, Nov 17 2017 (01:53:40) - G. resigned Herald
+Fri, Nov 17 2017 (02:06:04) - ATMunn initiated an election for Herald
+Fri, Nov 17 2017 (02:06:50) - PSS became a candidate for the Herald election
+Fri, Nov 17 2017 (02:34:09) - ATMunn denied o's CoE on the ADoP's weekly report
+Fri, Nov 17 2017 (02:36:59) - Alexis published the Full Logical Ruleset
+Fri, Nov 17 2017 (14:28:26) - ATMunn denied Telnaior's CoE on the ADoP's weekly report
+Sun, Nov 19 2017 (00:23:50) - Alexis published the Short Logical Ruleset
+Sun, Nov 19 2017 (09:27:44) - Aris published the proposal pool
+Sun, Nov 19 2017 (11:26:43) - PSS published the Registrar's weekly report
+Sun, Nov 19 2017 (15:37:55) - ATMunn made a CoE on the Registrar's weekly report
+Sun, Nov 19 2017 (15:44:09) - PSS accepted ATMunn's CoE on the Registrar's weekly report
+Sun, Nov 19 2017 (20:18:55) - G. published the Arbitor's weekly report
+Sun, Nov 19 2017 (23:39:29) - Aris published the Agora Nomic Code of Regulations
+-=-=-=-two reports ago-=-=-=-
+Mon, Nov 20 2017 (14:39:53) - ATMunn published the ADoP's weekly report
+Mon, Nov 20 2017 (17:32:32) - Corona became a candidate for the Herald election
+Mon, Nov 20 2017 (22:56:54) - PSS submitted a campaign proposal for the Herald election
+Tue, Nov 21 2017 (00:07:20) - 天火狐 published Agora Sky News
+Tue, Nov 21 2017 (00:43:12) - VJ Rada published the Referee's weekly report
+Tue, Nov 21 2017 (06:12:34) - o published the Agronomist's weekly report
+Tue, Nov 21 2017 (06:14:03) - o published the Notary's weekly report
+Tue, Nov 21 2017 (06:19:17) - o published the Surveyor's weekly report
+Tue, Nov 21 2017 (06:27:48) - o published the Treasuror's weekly report
+Tue, Nov 21 2017 (06:32:09) - VJ Rada made a CoE on the Treasuror's weekly report
+Tue, Nov 21 2017 (06:34:22) - o accepted VJ Rada's CoE on the Treasuror's weekly report
+Tue, Nov 21 2017 (23:39:03) - Proposal 7968 "Backed Out the Door" passed, creating the office of Clork, and the Complexity office switch
+Wed, Nov 22 2017 (00:29:04) - Telnaior published the Clork's weekly report
+Wed, Nov 22 2017 (05:49:23) - VJ Rada resigned Referee
+Wed, Nov 22 2017 (15:47:39) - ATMunn initiated an election for Referee
+Wed, Nov 22 2017 (19:15:01) - Alexis deputised for Referee
+Wed, Nov 22 2017 (21:25:29) - Corona became a candidate for the Referee election
+Wed, Nov 22 2017 (21:33:42) - VJ Rada became a candidate for the Referee election
+Wed, Nov 22 2017 (21:34:54) - PSS became a candidate for the Referee election
+Wed, Nov 22 2017 (21:41:15) - VJ Rada ceased to be a candidate for the Referee election
+Wed, Nov 22 2017 (22:11:14) - VJ Rada made a CoE on the Surveyor's weekly report
+Wed, Nov 22 2017 (23:45:45) - o became a candidate for the Referee election
+Sat, Nov 25 2017 (01:52:38) - ATMunn initiated the Agoran Decision for the Herald Election and distributed campaign proposals [1]
+Sat, Nov 25 2017 (17:15:22) - Alexis published the Short Logical Ruleset
+Sun, Nov 26 2017 (15:29:30) - PSS published the Registrar's weekly report
+Sun, Nov 26 2017 (21:09:54) - Aris published the proposal pool
+Sun, Nov 26 2017 (21:10:33) - Aris published the Agora Nomic Code of Regulations
+Sun, Nov 26 2017 (23:25:08) - G. published the Arbitor's weekly report
+Mon, Nov 27 2017 (01:40:59) - Telnaior published the Clork's weekly report
+Mon, Nov 27 2017 (01:59:17) - VJ Rada made a CoE on the Clork's weekly report
+[1] See last report.
+-=-=-=-previous report-=-=-=-
+Mon Nov 27 18:48:23 UTC 2017 - ATMunn published the ADoP's weekly report
+Mon Nov 27 21:47:55 UTC 2017 - PSS made a CoE on the ADoP's weekly report
+Mon Nov 27 21:54:14 UTC 2017 - VJ Rada initiated an election for Clork and became a candidate
+Tue Nov 28 00:12:57 UTC 2017 - VJ Rada became a candidate for the Herald election
+Tue Nov 28 00:31:22 UTC 2017 - Telnaior became a candidate for the Clork election
+Tue Nov 28 01:40:16 UTC 2017 - Alexis initiated an election for Tailor
+Tue Nov 28 01:44:20 UTC 2017 - Alexis became a candidate for the Tailor election
+Tue Nov 28 02:31:32 UTC 2017 - ATMunn made a CoE on the Arbitor's weekly report
+Tue Nov 28 03:43:20 UTC 2017 - VJ Rada deputised for Herald and published the Herald's weekly report
+Tue Nov 28 03:46:35 UTC 2017 - VJ Rada ceased to be a candidate for the Clork election
+Tue Nov 28 04:57:46 UTC 2017 - o published the ACU Bank Statement [1]
+Tue Nov 28 04:59:39 UTC 2017 - o published the Agronomist's weekly report
+Tue Nov 28 05:00:11 UTC 2017 - o published the Notary's weekly report
+Tue Nov 28 05:01:30 UTC 2017 - o published the Surveyor's weekly report
+Tue Nov 28 05:04:08 UTC 2017 - o published the Treasuror's weekly report
+Tue Nov 28 05:30:11 UTC 2017 - Aris made two CoEs on the Treasuror's weekly report
+Tue Nov 28 17:32:29 UTC 2017 - Corona made a CoE on the Treasuror and Clork's weekly reports
+Tue Nov 28 19:46:16 UTC 2017 - o linked Corona's CoE on the Treasuror's weekly report to a CFJ
+Tue Nov 28 22:41:03 UTC 2017 - Telnaior linked Corona's CoE on the Clork's weekly report to a CFJ
+Thu Nov 30 00:09:51 UTC 2017 - Aris made a CoE on the Clork's weekly report
+Thu Nov 30 20:40:18 UTC 2017 - PSS resolved the Herald election and campaign proposals, election Corona [2]
+Thu Nov 30 21:09:41 UTC 2017 - PSS published the Registrar's monthly report
+Fri Dec 01 01:10:43 UTC 2017 - Telnaior made a CoE on the Registrar's monthly report
+Fri Dec 01 01:35:42 UTC 2017 - PSS accepted Telnaior's CoE on the Registrar's monthly report
+Fri Dec 01 14:45:46 UTC 2017 - ATMunn initiated the Agoran Decision for the Referee Election
+Fri Dec 01 17:38:23 UTC 2017 - Corona ceased to be a candidate for the Referee election
+Sun Dec 03 15:55:24 UTC 2017 - PSS published the Registrar's weekly report
+Sun Dec 03 16:05:54 UTC 2017 - Alexis published the Short Logical Ruleset
+Sun Dec 03 16:30:31 UTC 2017 - Alexis published the Full Logical Ruleset
+Sun Dec 03 18:01:43 UTC 2017 - Alexis published the Tailor's monthly report
+Sun Dec 03 18:19:24 UTC 2017 - Trigon made a CoE on the Tailor's monthly report
+Sun Dec 03 18:55:59 UTC 2017 - Alexis denied Trigon's CoE on the Tailor's monthly report
+Sun Dec 03 21:17:59 UTC 2017 - VJ Rada made a CoE on the Tailor's monthly report
+Sun Dec 03 23:38:53 UTC 2017 - Aris published the proposal pool
+Sun Dec 03 23:41:37 UTC 2017 - Aris published the Agora Nomic Code of Regulations
+Mon Dec 04 09:33:00 UTC 2017 - Telnaior published the Clork's weekly report
+[1] This is not an official report, as it has no office associated with
+it and is related to a contract, but has the format and information that
+would be in a real report, so it has been put in this report.
+[2] There were actually several revisions and CoEs, but these were 
+excluded for conciseness and my sanity.
