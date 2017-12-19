@@ -1,0 +1,201 @@
+=====Metareport=====
+You can find all my most recent reports online at https://agoranomic.org/ADoP/
+
+Date of last report: 2017-12-12
+Date of this report: 2017-12-19
+
+
+MISCELLANEOUS INFO
+
+-----------------------------------------------------------------------------------------------------
+Filled offices: 16/18 (88.89%)
+Total officers: 10
+Consolidation[1]: 1.6
+Late reports: 33.33%
+-----------------------------------------------------------------------------------------------------
+[1] This is the number of filled offices divided by the number of
+officers. At 1, this means that all offices are filled by different
+players, and if it ever reaches the current number of offices, all
+offices are filled by one player.
+
+
+REPORT WARNINGS[1]
+
+Office             Holder           Days Since[2]      Deadline
+-----------------------------------------------------------------------------------------------------
+Herald[3]          Corona           53 Days            2017-11-30
+Referee            Gaelan           28 Days            2017-12-03
+Reportor           天火狐              28 Days            2017-12-03
+Notary             o                14 Days            2017-12-17
+Surveyor           o                14 Days            2017-12-17
+Treasuror          o                14 Days            2017-12-17
+-----------------------------------------------------------------------------------------------------
+[1] This is a warning to any officeholders that have had at least 7 days
+since eir last weekly report, or at least 30 days since eir last monthly
+report, along with the deadline of the absolute latest day eir report
+could be published on before e could receive a card.
+[2] Days since last report
+[3] Monthly report
+
+
+OFFICES
+
+Office             Holder           Since         Last Election     Complexity        Interim?[3]
+-----------------------------------------------------------------------------------------------------
+ADoP[1]            ATMunn           2017-10-20    2017-10-20        2
+Agronomist         VACANT           2017-12-05[4] Ongoing           1                 Y
+Arbitor            VACANT           2017-12-09[4] Ongoing           2                 Y
+Assessor           PSS[2]           2017-10-12    2017-10-12        3
+Clork              Telnaior         2017-11-22    2017-12-07        2                 
+Herald             Corona           2017-11-30    2017-11-30        1                 
+Notary             o                2017-10-22    2017-10-30        2
+Prime Minister     Alexis           2017-10-20    2017-10-20        1
+Promotor           Aris             2016-10-21    2017-09-21        2
+Referee            Gaelan           2017-11-22    Ongoing           2                 Y
+Registrar          PSS[2]           2017-04-18    2017-09-21        2
+Regkeepor          Aris             2017-07-06    Ongoing           1                 
+Reportor           天火狐              2017-09-13    2017-09-13         1
+Rulekeepor         Alexis           2017-11-06    2017-11-06        3
+Speaker            Quazie           2017-10-09    2014-04-21        1
+Surveyor           o                2017-05-08    2017-11-06        1
+Tailor             Telnaior         2017-12-07    2017-12-07        1    
+Treasuror          o                2016-10-22    2017-09-21        3
+-----------------------------------------------------------------------------------------------------
+[1] Associate Director of Personnel
+[2] Publius Scribonius Scholasticus
+[3] Interim offices are offices that are either vacant, or the holder of 
+the office was not elected to that office.
+[4] The office has been vacant since this date.
+
+
+REPORTS
+
+Office             Monthly?     Report                    Last Published        Late[1]
+-----------------------------------------------------------------------------------------------------
+ADoP[2]                         Offices                   2017-12-19
+Agronomist                      Farms                     2017-12-05
+Arbitor                         Judicial matters          2017-12-09
+Clork                           Politics                  2017-12-11
+Herald             Y            Patent titles             2017-10-27            !
+Herald                          Matters of Honour         2017-12-17
+Notary                          Contracts                 2017-12-05            !
+Promotor                        Proposal pool             2017-12-17
+Referee                         Rule violations           2017-11-21            !!!
+Registrar                       Players, Fora             2017-12-11
+Registrar          Y            Player history            2017-11-30
+Regkeepor                       ACORN[3]                  2017-12-17
+Reportor                        The Agoran Newspaper      2017-11-21            !!!
+Rulekeepor                      Short Logical Ruleset     2017-12-16            
+Rulekeepor         Y            Full Logical Ruleset      2017-12-03
+Surveyor                        Estates                   2017-12-05            !
+Tailor             Y            Ribbons                   2017-12-03
+Treasuror                       Shinies & FV[4]           2017-12-05            !
+-----------------------------------------------------------------------------------------------------
+[1] ! = 1 period missed. !! = 2 periods missed. !!! = 3+ periods missed.
+[2] Associate Director of Personnel
+[3] Agora Nomic Code of Regulations
+[4] Floating Value
+
+
+ELECTIONS
+
+Office             Initiated       Phase              Candidates
+-----------------------------------------------------------------------------------------------------
+Referee            2017-11-22      Voting             Corona, PSS[1], o
+Arbitor            2017-12-09      Nomination         Cuddlebeam, o, Murphy
+Agronomist         2017-12-12      Voting             None
+Regkeepor          2017-12-12      Voting             None
+----------------------------------------------------------------------------------------------------- 
+[1] Publius Scribonius Scholasticus
+
+
+UPCOMING ELECTIONS[1]
+
+Office             Days Until          Last Election
+-----------------------------------------------------------------------------------------------------
+Promotor           01 Days             2017-09-21
+Registrar          01 Days             2017-09-21
+Treasuror          01 Days             2017-09-21
+Assessor           22 Days             2017-10-12
+ADoP[2]            30 Days             2017-10-20
+-----------------------------------------------------------------------------------------------------
+[1] Unless an office becomes interim, office elections can be started by
+anyone 90 days after the previous one. This section shows the 5 offices
+(not counting the Speaker) with the most time passed since the last 
+election.
+[2] Associate Director of Personnel 
+
+RECENT EVENTS (all times UTC)
+-----------------------------------------------------------------------------------------------------
+Mon, Nov 27 2017 (18:48:23) - ATMunn published the ADoP's weekly report
+Mon, Nov 27 2017 (21:47:55) - PSS made a CoE on the ADoP's weekly report
+Mon, Nov 27 2017 (21:54:14) - VJ Rada initiated an election for Clork and became a candidate
+Tue, Nov 28 2017 (00:12:57) - VJ Rada became a candidate for the Herald election
+Tue, Nov 28 2017 (00:31:22) - Telnaior became a candidate for the Clork election
+Tue, Nov 28 2017 (01:40:16) - Alexis initiated an election for Tailor
+Tue, Nov 28 2017 (01:44:20) - Telnaior became a candidate for the Tailor election
+Tue, Nov 28 2017 (02:31:32) - ATMunn made a CoE on the Arbitor's weekly report
+Tue, Nov 28 2017 (03:43:20) - VJ Rada deputised for Herald and published the Herald's weekly report
+Tue, Nov 28 2017 (03:46:35) - VJ Rada ceased to be a candidate for the Clork election
+Tue, Nov 28 2017 (04:57:46) - o published the ACU Bank Statement [1]
+Tue, Nov 28 2017 (04:59:39) - o published the Agronomist's weekly report
+Tue, Nov 28 2017 (05:00:11) - o published the Notary's weekly report
+Tue, Nov 28 2017 (05:01:30) - o published the Surveyor's weekly report
+Tue, Nov 28 2017 (05:04:08) - o published the Treasuror's weekly report
+Tue, Nov 28 2017 (05:30:11) - Aris made two CoEs on the Treasuror's weekly report
+Tue, Nov 28 2017 (06:05:44) - Alexis resigned Referee, appointing Gaelan
+Tue, Nov 28 2017 (17:32:29) - Corona made a CoE on the Treasuror and Clork's weekly reports
+Tue, Nov 28 2017 (19:46:16) - o linked Corona's CoE on the Treasuror's weekly report to a CFJ
+Tue, Nov 28 2017 (22:41:03) - Telnaior linked Corona's CoE on the Clork's weekly report to a CFJ
+Thu, Nov 30 2017 (00:09:51) - Aris made a CoE on the Clork's weekly report
+Thu, Nov 30 2017 (20:40:18) - PSS resolved the Herald election and campaign proposals, electing Corona [2]
+Thu, Nov 30 2017 (21:09:41) - PSS published the Registrar's monthly report
+Fri, Dec 01 2017 (01:10:43) - Telnaior made a CoE on the Registrar's monthly report
+Fri, Dec 01 2017 (01:35:42) - PSS accepted Telnaior's CoE on the Registrar's monthly report
+Fri, Dec 01 2017 (14:45:46) - ATMunn initiated the Agoran Decision for the Referee Election
+Sun, Dec 03 2017 (15:55:24) - PSS published the Registrar's weekly report
+Sun, Dec 03 2017 (16:05:54) - Alexis published the Short Logical Ruleset
+Sun, Dec 03 2017 (16:30:31) - Alexis published the Full Logical Ruleset
+Sun, Dec 03 2017 (18:01:43) - Alexis published the Tailor's monthly report
+Sun, Dec 03 2017 (18:19:24) - Trigon made a CoE on the Tailor's monthly report
+Sun, Dec 03 2017 (18:55:59) - Alexis denied Trigon's CoE on the Tailor's monthly report
+Sun, Dec 03 2017 (21:17:59) - VJ Rada made a CoE on the Tailor's monthly report
+Sun, Dec 03 2017 (23:38:53) - Aris published the proposal pool
+Sun, Dec 03 2017 (23:41:37) - Aris published the Agora Nomic Code of Regulations
+Mon, Dec 04 2017 (09:33:00) - Telnaior published the Clork's weekly report
+[1], [2] See report 2017-12-05.
+-=-=-=-two reports ago-=-=-=-
+Tue, Dec 05 2017 (02:19:53) - ATMunn published the ADoP's weekly report
+Tue, Dec 05 2017 (02:26:14) - Alexis made 2 CoEs on the ADoP's weekly report
+Tue, Dec 05 2017 (04:53:29) - o published the Agronomist's weekly report
+Tue, Dec 05 2017 (04:54:13) - o published the Notary's weekly report
+Tue, Dec 05 2017 (04:55:32) - o published the Surveyor's weekly report
+Tue, Dec 05 2017 (05:00:44) - o published the Treasuror's weekly report
+Tue, Dec 05 2017 (05:02:57) - o published the ACU Bank Statement
+Tue, Dec 05 2017 (05:04:18) - o resigned from Agronomist
+Tue, Dec 05 2017 (11:03:25) - PSS made 2 CoEs on the ADoP's weekly report
+Tue, Dec 05 2017 (14:36:48) - ATMunn denied PSS's CoEs on the ADoP's weekly report
+Tue, Dec 05 2017 (14:53:35) - ATMunn accepted Alexis's CoEs on the ADoP's weekly report
+Wed, Dec 06 2017 (00:35:44) - ATMunn made and accepted a CoE on the ADoP's weekly report
+Thu, Dec 07 2017 (14:45:46) - ATMunn resolved the Tailor and Clork elections, electing Telnaior to both
+Sat, Dec 09 2017 (00:03:00) - G. published the Arbitor's weekly report
+Sat, Dec 09 2017 (00:06:01) - G. resigned from Arbitor
+Sat, Dec 09 2017 (01:59:49) - ATMunn initiated an election for Arbitor
+Sun, Dec 10 2017 (16:47:09) - Corona published the Herald's weekly report
+Mon, Dec 11 2017 (00:44:07) - PSS published the Registrar's weekly report
+Mon, Dec 11 2017 (02:03:20) - Aris published the proposal pool
+Mon, Dec 11 2017 (02:04:58) - Aris published the Agora Nomic Code of Regulations
+Mon, Dec 11 2017 (03:27:44) - Telnaior published the Clork's weekly report
+Mon, Dec 11 2017 (03:31:02) - Aris made a CoE on the Clork's weekly report
+-=-=-=-previous report-=-=-=-
+Tue, Dec 12 2017 (01:56:31) - ATMunn published the ADoP's report
+Tue, Dec 12 2017 (01:57:25) - ATMunn initiated elections for Agronomist and Regkeepor
+Thu Dec 14 18:37:18 UTC 2017 - Cuddlebeam became a candidate for the Arbitor election
+Sat Dec 16 07:30:35 UTC 2017 - o became a candidate for the Arbitor election
+Sat Dec 16 14:29:05 UTC 2017 - ATMunn inititated the Agoran Decision for the Arbitor election
+Sat Dec 16 16:55:51 UTC 2017 - Alexis published the Short Logical Ruleset
+Sun Dec 17 22:09:20 UTC 2017 - Aris published the proposal pool
+Sun Dec 17 22:09:26 UTC 2017 - Aris published the Agora Nomic Code of Regulations
+Sun Dec 17 23:47:25 UTC 2017 - Corona published the Herald's weekly report
+Mon Dec 18 16:27:23 UTC 2017 - Murphy became a candidate for the Arbitor election
+
